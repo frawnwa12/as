@@ -2021,7 +2021,7 @@ local Text = [[
 ]] 
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}}, 
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/AstrokswaxBeka&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -3726,8 +3726,7 @@ end,nil)
 end
 if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or text == 'source' then
 local Text = [[
-[𝙒𝙀𝗟𝗖𝙊𝗠𝙀 𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍](https://t.me/AstrokswaxBeka)
-]]
+[𝙒𝙀𝗟𝗖𝙊𝗠𝙀 𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍](https://t.me/AstrokswaxBeka)]]
 keyboard = {} 
 keyboard.inline_keyboard = {
 {{text = '𝗗𝙀𝗩 𝗔𝗦𝙏𝙊𝙍𝙊𝗞𝗦',url="t.me/A_st_ro_ks"}},
@@ -4532,7 +4531,7 @@ ght = math.random(1,62);
 local Text ='تم اختيار هذه الصوره لـك' 
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁',url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍',url="t.me/AstrokswaxBeka"}},
 {{text = 'اضف البوت الي مجموعتك' ,url="t.me/"..dofile("./BANDA.lua").botUserName.."?startgroup=start"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
@@ -4544,7 +4543,7 @@ ght = math.random(1,62);
 local Text = 'تـم اخـتيار هـذه الـصوره لـك'
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁' ,url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍' ,url="t.me/AstrokswaxBeka"}},
 {{text = 'اضف البوت الي مجموعتك' ,url="t.me/"..dofile("./BANDA.lua").botUserName.."?startgroup=start"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
@@ -4556,7 +4555,7 @@ ght = math.random(1,62);
 local Text = 'تـم اخـتيار هـذه الـصوره لـك'  
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text =  '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁' ,url="t.me/AstrokswaxBeka"}},
+{{text =  '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍' ,url="t.me/AstrokswaxBeka"}},
 {{text = 'اضف البوت الي مجموعتك' ,url="t.me/"..dofile("./BANDA.lua").botUserName.."?startgroup=start"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
@@ -4568,7 +4567,7 @@ ght = math.random(1,62);
 local Text = 'تـم اخـتيار هـذه الـصوره لـك'  
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text =  '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁' ,url="t.me/AstrokswaxBeka"}},
+{{text =  '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍' ,url="t.me/AstrokswaxBeka"}},
 {{text = 'اضف البوت الي مجموعتك' ,url="t.me/"..dofile("./BANDA.lua").botUserName.."?startgroup=start"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
@@ -4607,7 +4606,7 @@ local Text = [[
 ]] 
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}}, 
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/AstrokswaxBeka&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -4621,7 +4620,7 @@ local Text = [[
 ]]
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}}, 
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/AstrokswaxBeka&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -4671,7 +4670,7 @@ keyboard.inline_keyboard = {
 {{text = 'SpaceTraveler', url="https://t.me/gamee?game=SpaceTraveler"},{text = 'RedAndBlue', url="https://t.me/gamee?game=RedAndBlue"}},  
 {{text = 'SkodaHockey1 ', url="https://t.me/gamee?game=SkodaHockey1"},{text = 'SummerLove', url="https://t.me/gamee?game=SummerLove"}},  
 {{text = 'SmartUpShark', url="https://t.me/gamee?game=SmartUpShark"},{text = 'SpikyFish3', url="https://t.me/gamee?game=SpikyFish3"}},  
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }  
 local msg_id = msg.id_/2097152/0.5  
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/vagwg/6&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -12926,7 +12925,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendvideo?chat_id=' .. msg.chat_id_ .. '&video=https://t.me/comxnxp/18&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -12936,7 +12935,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendvideo?chat_id=' .. msg.chat_id_ .. '&video=https://t.me/comxnxp/19&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -12946,7 +12945,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendsticker?chat_id=' .. msg.chat_id_ .. '&sticker=https://t.me/comxnxp/20&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -12957,7 +12956,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendvideo?chat_id=' .. msg.chat_id_ .. '&video=https://t.me/comxnxp/21&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -14868,7 +14867,7 @@ get_id_text = get_id_text:gsub('#game',NUMPGAME)
 get_id_text = get_id_text:gsub('#photos',photps) 
 send(msg.chat_id_, msg.id_,'['..get_id_text..']')   
 else
-send(msg.chat_id_, msg.id_,'[\n𓄼🇪🇭 𝑼𝒔𝒆𝒓𝑵𝒂𝒎𝒆  : 「'..username..'」 \n𓄼🇪🇭 𝑴𝒔𝒈𝒔 :「'..Msguser..'」 \n𓄼🇪🇭 𝑺𝒕𝒂𝒔𝒕 :「'..Rutba(msg.sender_user_id_,msg.chat_id_)..'」 \n𓄼🇪🇭 𝒊𝒅 : 「'..msg.sender_user_id_..'」 \n𓄼🇪🇭 𝒄𝒉「@AstrokswaxBeka」 \n')
+send(msg.chat_id_, msg.id_,'[\n𓄼🇪🇭 ??𝒔𝒆𝒓𝑵𝒂𝒎𝒆  : 「'..username..'」 \n𓄼🇪🇭 𝑴𝒔𝒈𝒔 :「'..Msguser..'」 \n𓄼🇪🇭 𝑺𝒕𝒂𝒔𝒕 :「'..Rutba(msg.sender_user_id_,msg.chat_id_)..'」 \n𓄼🇪🇭 𝒊𝒅 : 「'..msg.sender_user_id_..'」 \n𓄼🇪🇭 𝒄𝒉「@AstrokswaxBeka」 \n')
 end
 end
 
@@ -16750,7 +16749,7 @@ keyboard.inline_keyboard = {
 {text = '◗الاوامر◖', callback_data="/help12"},
 },
 {
-{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"},
+{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"},
 },
 }
 local msg_id = msg.id_/2097152/0.5
@@ -16769,7 +16768,7 @@ keyboard.inline_keyboard = {
 {text = 'اوامر الاعضاء', callback_data="/change-names"},
 },
 {
-{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"},
+{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"},
 },
 }
 local msg_id = msg.id_/2097152/0.5
@@ -17498,7 +17497,7 @@ local Teext =[[
 ════════ Me ════════
 📮╖ Chat
 📜╢ Knows
-📸╢ Pictures
+??╢ Pictures
 📽️╢ videos
 🎟╢ Sticker
 📂╢ files
@@ -17849,7 +17848,7 @@ keyboard.inline_keyboard = {
 {{text = 'لعبه كشف الكذب', callback_data="/help47"}},
 {{text = 'مريم', callback_data="/help36"},{text = 'عقاب', callback_data="/help42"}},
 {{text = '◗القائمه الرائسيه◖', callback_data="/add"}},
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
 end
@@ -17957,7 +17956,7 @@ keyboard.inline_keyboard = {
 {{text = 'SkodaHockey1 ', url="https://t.me/gamee?game=SkodaHockey1"},{text = 'SummerLove', url="https://t.me/gamee?game=SummerLove"}},  
 {{text = 'SmartUpShark', url="https://t.me/gamee?game=SmartUpShark"},{text = 'SpikyFish3', url="https://t.me/gamee?game=SpikyFish3"}},  
 {{text = '◗القائمه الرائسيه◖', callback_data="/add"}},
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
 end
@@ -17994,7 +17993,7 @@ keyboard.inline_keyboard = {
 {text = '◗القائمه الرائسيه◖', callback_data="/change-id"},
 },
 {
-{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"},
+{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"},
 },
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
@@ -18012,7 +18011,7 @@ keyboard.inline_keyboard = {
 {text = 'اوامر الاعضاء', callback_data="/change-names"},
 },
 {
-{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"},
+{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"},
 },
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
@@ -18032,7 +18031,7 @@ keyboard.inline_keyboard = {
 {{text = 'غنيلي', callback_data="/help17"}},
 {{text = 'نسبه جمالي', callback_data="/help18"},{text = 'اليتيوب', callback_data="/help24"}},
 {{text = '◗القائمه الرائسيه◖', callback_data="/add"}},
-{{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"}},
+{{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
 end
@@ -18157,7 +18156,7 @@ keyboard.inline_keyboard = {
 {text = '◗الاوامر◖', callback_data="/help12"},
 },
 {
-{text = '𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁', url="t.me/AstrokswaxBeka"},
+{text = '𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"},
 },
 }
 return https.request("https://api.telegram.org/bot"..token..'/editMessageText?chat_id='..Chat_id..'&text='..URL.escape(Teext)..'&message_id='..msg_idd..'&parse_mode=markdown&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
