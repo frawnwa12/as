@@ -3730,9 +3730,9 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text =  'ᏙΌᎠᎥᏦᎪ!' ,url="t.me/DV_Vo_Dk_A1"}},
-{{text =  'ᎷᎪᎡᎥΌ' , url="t.me/M_a_R_i_o22"}},
-{{text = ' ᏟᎻ ᎬᏙᎪᏞ' , url="t.me/E_V_EN"}},
+{{text =  '𝗗𝙀𝗩 𝗔𝗦𝙏𝙊𝙍𝙊𝗞𝗦' ,url="t.me/A_st_ro_ks"}},
+{{text =  '𝗗𝙀𝗩 𝗕𝙄𝗞𝗔' , url="t.me/UU_P12"}},
+{{text = ' 𝗖𝗛 𝙏𝗔𝙀𝗚𝗔𝙍' , url="t.me/AstrokswaxBeka"}},
 {{text =  'اضف البوت الي مجموعتك ' ,url="t.me/"..dofile("./Banda.lua").botUserName.."?startgroup=start"}}, 
 }
 local msg_id = msg.id_/2097152/0.5
