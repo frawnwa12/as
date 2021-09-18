@@ -3733,7 +3733,7 @@ keyboard.inline_keyboard = {
 {{text =  'ᏙΌᎠᎥᏦᎪ!' ,url="t.me/DV_Vo_Dk_A1"}},
 {{text =  'ᎷᎪᎡᎥΌ' , url="t.me/M_a_R_i_o22"}},
 {{text = ' ᏟᎻ ᎬᏙᎪᏞ' , url="t.me/E_V_EN"}},
-{{text =  اضف البوت الي مجموعتك  ,url="t.me/"..dofile("./Banda.lua").botUserName.."?startgroup=start"}}, 
+{{text =  'اضف البوت الي مجموعتك ' ,url="t.me/"..dofile("./Banda.lua").botUserName.."?startgroup=start"}}, 
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/frawnwafr/3&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
