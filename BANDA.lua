@@ -3724,15 +3724,15 @@ end
 end
 end,nil)   
 end
-if text ==  السورس  or text ==  سورس  or text ==  يا سورس  or text ==  source  then
+if text ==  'السورس'  or text ==  'سورس ' or text == ' يا سورس'  or text == ' source ' then
 local Text = [[
-𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁
+[𝙒𝙀𝗟𝗖𝙊𝗠𝙀 𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍](https://t.me/AstrokswaxBeka)
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text =  ᏙΌᎠᎥᏦᎪ! ,url="t.me/DV_Vo_Dk_A1"},{text =  ᎻᎪᎡᏴΌᏦᎪᎪ! ,url="t.me/DvH7rboka_A3"}},
-{{text =  ᎷᎪᎡᎥΌ , url="t.me/M_a_R_i_o22"},{text =  ᎬᏞՏᎪᎬᎬᎠY , url="t.me/DV_SA_3EDY_A1"}},
-{{text =  ᏟᎻ ᎬᏙᎪᏞ , url="t.me/E_V_EN"},{text =  ͲᎳՏΌᏞ , url="t.me/m_a_r_i_os"}},
+{{text =  'ᏙΌᎠᎥᏦᎪ!' ,url="t.me/DV_Vo_Dk_A1"}},
+{{text =  'ᎷᎪᎡᎥΌ' , url="t.me/M_a_R_i_o22"}},
+{{text = ' ᏟᎻ ᎬᏙᎪᏞ' , url="t.me/E_V_EN"}},
 {{text =  اضف البوت الي مجموعتك  ,url="t.me/"..dofile("./Banda.lua").botUserName.."?startgroup=start"}}, 
 }
 local msg_id = msg.id_/2097152/0.5
