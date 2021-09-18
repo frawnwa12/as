@@ -3724,16 +3724,16 @@ end
 end
 end,nil)   
 end
-if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or text == 'source' then
+if text ==  السورس  or text ==  سورس  or text ==  يا سورس  or text ==  source  then
 local Text = [[
-[𝙒𝙀𝗟𝗖𝙊𝗠𝙀 𝗦𝙊𝙐𝙍𝗖𝙀 𝙏𝗔𝙀𝗚𝗔𝙍](https://t.me/AstrokswaxBeka)]]
+𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑆𝑂𝐔𝑅𝐶𝐸𖠕𝐸𝑉𝐸𝑁
+]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '𝗗𝙀𝗩 𝗔𝗦𝙏𝙊𝙍𝙊𝗞𝗦',url="t.me/A_st_ro_ks"}},
-{{text = '𝗗𝙀𝗩 𝗕𝙄𝗞𝗔', url="t.me/UU_P12"}},
-{{text = '𝗖𝗛 𝙏𝗔𝙀𝗚𝗔𝙍', url="t.me/AstrokswaxBeka"}},
-{text = '𝙏𝙒𝗦𝙊𝗟', url="t.me/AstrokswaxBekabot"}},
-{{text = 'اضف البوت الي مجموعتك' ,url="t.me/"..dofile("./BANDA.lua").botUserName.."?startgroup=start"}},
+{{text =  ᏙΌᎠᎥᏦᎪ! ,url="t.me/DV_Vo_Dk_A1"},{text =  ᎻᎪᎡᏴΌᏦᎪᎪ! ,url="t.me/DvH7rboka_A3"}},
+{{text =  ᎷᎪᎡᎥΌ , url="t.me/M_a_R_i_o22"},{text =  ᎬᏞՏᎪᎬᎬᎠY , url="t.me/DV_SA_3EDY_A1"}},
+{{text =  ᏟᎻ ᎬᏙᎪᏞ , url="t.me/E_V_EN"},{text =  ͲᎳՏΌᏞ , url="t.me/m_a_r_i_os"}},
+{{text =  اضف البوت الي مجموعتك  ,url="t.me/"..dofile("./Banda.lua").botUserName.."?startgroup=start"}}, 
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/frawnwafr/3&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -4629,11 +4629,11 @@ end
 if text == 'التواصل'  then
 database:del(bot_id..'Srt:Bot') 
 local Text = [[ 
-[TWL](t.me/m_a_r_i_os)
+[TWL](t.me/AstrokswaxBekabot)
 ]] 
 keyboard = {}  
 keyboard.inline_keyboard = { 
-{{text = 'ͲᎳՏΌᏞ', url="t.me/m_a_r_i_os"}}, 
+{{text = 'ͲᎳՏΌᏞ', url="t.me/AstrokswaxBekabot"}}, 
 } 
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/vagwg/7&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
